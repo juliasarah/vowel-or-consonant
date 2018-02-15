@@ -1,4 +1,4 @@
-char = ('j')
+char = raw_input("")
 
 
 if(char=='a,e,i,o,u'):
